@@ -41,28 +41,15 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 
 
 ## 📈 Sales Insights
-
-#### customer performance report - 
+ 
 * A major portion of sales comes from e-commerce channels like Amazon and Direct Stores like AtliQ e-store and AtliQ Exclusive stores
 * Customers such as Nova, Integration stores, and Chitpec showing 730%–2700% growth (2020–2021).
-
-#### market performance vs targets - 
 * Most markets underperformed against targets in 2021, resulting in an overall -8.4% variance.  
 * Poland, Spain, Indonesia, and Germany showed the highest negative variance despite moderate targets whereas India and USA showed large absolute gaps due to higher target volumes.
-
-#### product level performance - 
 * The Top 10 products together contributed 708.4% growth from 2020 to 2021.
-
-#### division level performance
 * PC and P&A divisions showed strong growth, with the PC division growing by 313.7%.
-
-#### top and bottom products analysis
 * Top 5 products contributed 28.17% of Total Sales, while bottom 5 contributed only 0.26%, indicating lower demand or movement.
-
-#### new products launch (2021) performance
 * New products launched in 2021 contributed 29.41% of total sales, showing strong Market Acceptance.
-
-#### top 5 country performance (2021)
 * India ranked #1 in 2021 with 161.2M sales, followed by USA with 87.78M and South Korea with 48.97M.
 
 ---
@@ -89,15 +76,10 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 
 ## 💰 Finance Insights
 
-#### p&l overview
-* The P&L shows strong seasonality, with peak sales in Nov–Dec and moderate dips in Feb and mid-year months.    
-* Although net sales continue to grow, the year-over-year growth rate has been reducing, suggesting decelerating growth.
+* The P&L Report shows strong seasonality, with peak sales in Nov–Dec and moderate dips in Feb and mid-year months.    
+* Although Net Sales continue to grow, the Year-Over-Year Growth Rate has been reducing, suggesting decelerating growth.
 * GM% declined from 41.43% (2019) to 36.43% (2021), indicating weakening gross margin performance over time.
-
-#### p&l (Markets)
 * India, USA, and South Korea have good Net Sales and Gross Margin, but relatively moderate GM%, whereas New Zealand and Japan show higher GM%.
-
-#### GM% by Sub-Zone performance
 * Sub-Zones ROA, SE, and ANZ show good GM% across all Quarters
 
 
