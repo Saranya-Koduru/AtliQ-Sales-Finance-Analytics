@@ -112,14 +112,14 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 
 # 📚 Learnings
 
-✅ Excel Data Cleaning and Transformation using Power Query 
-✅ DAX Measures Creation  
-✅ Pivot Tables & Reporting  
-✅ Business Analysis  
-✅ Structured P&L and Sales Reports creation
-✅ Dashboard Formatting  
-✅ Sales & Finance Domain Understanding  
-✅ Decision-Oriented Reporting
+✅ Excel Data Cleaning and Transformation using Power Query   
+✅ DAX Measures Creation   
+✅ Pivot Tables & Reporting   
+✅ Business Analysis   
+✅ Structured P&L and Sales Reports creation   
+✅ Dashboard Formatting   
+✅ Sales & Finance Domain Understanding   
+✅ Decision-Oriented Reporting   
 
 
 # Credits & Thanks ⭐
