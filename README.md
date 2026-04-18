@@ -5,7 +5,6 @@ Excel report analyzing sales, gross margin, targets, and customer performance.
 
 **AtliQ Hardware** is a Global Computer Hardware and Electronics company that sells products such as PCs, peripherals, accessories to multiple markets.
 
-
 # 🚀 Objective
 
 To build structured **Sales and Finance Analytics Reports** using 3 financial years (2019–2021) in order to answer important business questions and support data-driven decision-making by focusing on  
@@ -15,10 +14,16 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 - Gross Margin trends and cost efficiency
 - Target vs actual performance tracking
 
+# 🛠️ Tech Stack   
 
-# 📈 SALES ANALYTICS
+📌 Microsoft Excel  
+📌 Power Query  
+📌 DAX  
+📌 Pivot Tables  
+📌 Conditional Formatting  
 
-
+# 📈 Sales Analytics  
+### [View Sales Report](https://github.com/Saranya-Koduru/Sales-Finance-Analytics/blob/main/Sales%20Analytics.pdf)
 ## 🧩 Business Questions
 
 - What are the top 10 products based on % increase in net sales from 2020 to 2021?
@@ -28,17 +33,16 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 - How did different divisions perform in terms of growth?
 - How did markets perform against targets?
 
-
-## ⚙️ Measures Created (Sales Analytics)
+## ⚙️ Measures Created
 
 - **Net Sales** – Total sales generated.  
 - **Sales 2019** – Total sales recorded in FY 2019.  
 - **Sales 2020** – Total sales recorded in FY 2020.  
 - **Sales 2021** – Total sales recorded in FY 2021.  
 - **2021 vs 2020** – Year-over-Year sales growth comparison.  
-- **Target 2021** – Assigned sales target for FY 2021.    
-- **Result %** – Percentage gap between actual sales and target.
-
+- **Target 2021** – Assigned sales target for FY 2021.
+- **2021 - Target** – Difference between 2021 sales and targets.    
+- **Result %** – Percentage gap between actual sales and targets.
 
 ## 📈 Sales Insights
  
@@ -54,9 +58,8 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 
 ---
 
-# 💰 FINANCE ANALYTICS
-
-
+# 💰 Finance Analytics   
+### [View Finance Report](https://github.com/Saranya-Koduru/Sales-Finance-Analytics/blob/main/Finance%20Analytics.pdf)
 ## 🧩 Business Questions
 
 - How did the P&L perform across years and quarters?
@@ -65,14 +68,12 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 - How are different markets performing in profitability?
 - Which sub-zones show strong GM% performance?
 
-
 ## ⚙️ Measures Created
 
 - **Net Sales** – Total sales generated.  
 - **COGS** – Cost of Goods Sold incurred to produce products.  
 - **Gross Margin (GM)** – Difference between Net Sales and COGS.  
 - **GM%** – Percentage of sales remaining after deducting COGS.    
-
 
 ## 💰 Finance Insights
 
@@ -81,16 +82,6 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 * GM% declined from 41.43% (2019) to 36.43% (2021), indicating weakening gross margin performance over time.
 * India, USA, and South Korea have good Net Sales and Gross Margin, but relatively moderate GM%, whereas New Zealand and Japan show higher GM%.
 * Sub-Zones ROA, SE, and ANZ show good GM% across all Quarters
-
-
-# 🛠️ Tools Used
-
-📌 Microsoft Excel  
-📌 Power Query  
-📌 DAX  
-📌 Pivot Tables  
-📌 Conditional Formatting  
-
 
 # 📚 Learnings
 
@@ -103,10 +94,9 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 ✅ Sales & Finance Domain Understanding   
 ✅ Decision-Oriented Reporting   
 
-
 # Credits & Thanks ⭐
 
-I would like to sincerely thank **Dhaval Patel** and **Hemanand Vadivel** from **Codebasics** for their exceptional guidance and structured teaching throughout this project.
+I would like to sincerely thank **Dhaval Patel** sir and **Hemanand Vadivel** sir from **Codebasics** for their exceptional guidance and structured teaching throughout this project.
 
 Their practical approach to solving real business problems helped me understand analytics beyond tools — including business thinking, reporting logic, and data-driven decision-making.
 
