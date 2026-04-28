@@ -1,11 +1,11 @@
 # Sales-Finance-Analytics
 Excel report analyzing sales, gross margin, targets, and customer performance.
 
-# 🎯 Business Problem
+# Business Problem
 
 **AtliQ Hardware** is a Global Computer Hardware and Electronics company that sells products such as PCs, peripherals, accessories to multiple markets.
 
-# 🚀 Objective
+# Objective
 
 To build structured **Sales and Finance Analytics Reports** using 3 financial years (2019–2021) in order to answer important business questions and support data-driven decision-making by focusing on  
 - Sales performance across products, customers, and markets
@@ -14,17 +14,17 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 - Gross Margin trends and cost efficiency
 - Target vs actual performance tracking
 
-# 🛠️ Tech Stack   
+# Tech Stack   
 
-📌 Microsoft Excel  
-📌 Power Query  
-📌 DAX  
-📌 Pivot Tables  
-📌 Conditional Formatting  
+- Microsoft Excel  
+- Power Query  
+- DAX  
+- Pivot Tables  
+- Conditional Formatting  
 
-# 📈 Sales Analytics  
+# Sales Analytics  
 ### [View Sales Report](https://github.com/Saranya-Koduru/Sales-Finance-Analytics/blob/main/Sales%20Analytics.pdf)
-## 🧩 Business Questions
+## Business Questions
 
 - What are the top 10 products based on % increase in net sales from 2020 to 2021?
 - Which products are ranked in the top 5 and bottom 5 based on quantity sold?
@@ -33,18 +33,18 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 - How did different divisions perform in terms of growth?
 - How did markets perform against targets?
 
-## ⚙️ Measures Created
+## Measures Created
 
-- **Net Sales** – Total sales generated.  
-- **Sales 2019** – Total sales recorded in FY 2019.  
-- **Sales 2020** – Total sales recorded in FY 2020.  
-- **Sales 2021** – Total sales recorded in FY 2021.  
-- **2021 vs 2020** – Year-over-Year sales growth comparison.  
-- **Target 2021** – Assigned sales target for FY 2021.
-- **2021 - Target** – Difference between 2021 sales and targets.    
-- **Result %** – Percentage gap between actual sales and targets.
+* **Net Sales** – Total sales generated.  
+* **Sales 2019** – Total sales recorded in FY 2019.  
+* **Sales 2020** – Total sales recorded in FY 2020.  
+* **Sales 2021** – Total sales recorded in FY 2021.  
+* **2021 vs 2020** – Year-over-Year sales growth comparison.  
+* **Target 2021** – Assigned sales target for FY 2021.
+* **2021 - Target** – Difference between 2021 sales and targets.    
+* **Result %** – Percentage gap between actual sales and targets.
 
-## 📈 Sales Insights
+## Sales Insights
  
 * A major portion of sales comes from e-commerce channels like Amazon and Direct Stores like AtliQ e-store and AtliQ Exclusive stores
 * Customers such as Nova, Integration stores, and Chitpec showing 730%–2700% growth (2020–2021).
@@ -58,9 +58,9 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 
 ---
 
-# 💰 Finance Analytics   
+# Finance Analytics   
 ### [View Finance Report](https://github.com/Saranya-Koduru/Sales-Finance-Analytics/blob/main/Finance%20Analytics.pdf)
-## 🧩 Business Questions
+## Business Questions
 
 - How did the P&L perform across years and quarters?
 - What is the profitability trend in GM% over the years?
@@ -68,14 +68,14 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 - How are different markets performing in profitability?
 - Which sub-zones show strong GM% performance?
 
-## ⚙️ Measures Created
+## Measures Created
 
-- **Net Sales** – Total sales generated.  
-- **COGS** – Cost of Goods Sold incurred to produce products.  
-- **Gross Margin (GM)** – Difference between Net Sales and COGS.  
-- **GM%** – Percentage of sales remaining after deducting COGS.    
+* **Net Sales** – Total sales generated.  
+* **COGS** – Cost of Goods Sold incurred to produce products.  
+* **Gross Margin (GM)** – Difference between Net Sales and COGS.  
+* **GM%** – Percentage of sales remaining after deducting COGS.    
 
-## 💰 Finance Insights
+## Finance Insights
 
 * The P&L Report shows strong seasonality, with peak sales in Nov–Dec and moderate dips in Feb and mid-year months.    
 * Although Net Sales continue to grow, the Year-Over-Year Growth Rate has been reducing, suggesting decelerating growth.
@@ -83,21 +83,18 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 * India, USA, and South Korea have good Net Sales and Gross Margin, but relatively moderate GM%, whereas New Zealand and Japan show higher GM%.
 * Sub-Zones ROA, SE, and ANZ show good GM% across all Quarters
 
-# 📚 Learnings
+# Learnings
 
-✅ Excel Data Cleaning and Transformation using Power Query   
-✅ DAX Measures Creation   
-✅ Pivot Tables & Reporting   
-✅ Business Analysis   
-✅ Structured P&L and Sales Reports creation   
-✅ Dashboard Formatting   
-✅ Sales & Finance Domain Understanding   
-✅ Decision-Oriented Reporting   
+* Excel Data Cleaning and Transformation using Power Query   
+* DAX Measures Creation   
+* Pivot Tables & Reporting   
+* Business Analysis   
+* Structured P&L and Sales Reports creation   
+* Dashboard Formatting   
+* Sales & Finance Domain Understanding   
+* Decision-Oriented Reporting   
 
 # Credits & Thanks ⭐
+I sincerely thank **Dhaval Patel sir** and **Hemanand Vadivel sir** from **Codebasics** for their guidance and structured teaching throughout this project. The dataset used was provided by Codebasics for educational purposes and helped me apply analytics concepts to real business scenarios.
 
-I would like to sincerely thank **Dhaval Patel** sir and **Hemanand Vadivel** sir from **Codebasics** for their exceptional guidance and structured teaching throughout this project.
-
-Their practical approach to solving real business problems helped me understand analytics beyond tools — including business thinking, reporting logic, and data-driven decision-making.
-
-This project has been an important step in strengthening my skills in Excel, analytics, and business intelligence.
+Their practical teaching approach improved my understanding of business analysis, reporting methods, and data-driven decision-making. This project also strengthened my skills in Excel, analytics, and business intelligence.
