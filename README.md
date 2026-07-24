@@ -94,7 +94,6 @@ To build structured **Sales and Finance Analytics Reports** using 3 financial ye
 * Sales & Finance Domain Understanding   
 * Decision-Oriented Reporting   
 
-# Credits & Thanks ⭐
-I sincerely thank **Dhaval Patel sir** and **Hemanand Vadivel sir** from **Codebasics** for their guidance and structured teaching throughout this project. The dataset used was provided by Codebasics for educational purposes and helped me apply analytics concepts to real business scenarios.
+## Acknowledgements
 
-Their practical teaching approach improved my understanding of business analysis, reporting methods, and data-driven decision-making. This project also strengthened my skills in Excel, analytics, and business intelligence.
+Thanks to **Dhaval Patel sir**, **Hemanand Vadivel sir**, and **Codebasics** for providing the dataset, learning resources, and guidance that supported this project. The project helped apply analytics concepts to real-world business scenarios and enhance skills in Excel, business intelligence, and data analysis.
